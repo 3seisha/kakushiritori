@@ -17,4 +17,4 @@
 Python 3.x がインストールされている環境で以下を実行してください：
 
 ```bash
-python kakushiritori_game.py
+python kakushiritori.py
